@@ -1,3 +1,14 @@
+Create a README file
+
+- This is done in fulfillment of lab 1 on update project's README.
+Member roles:
+Member 1: Shirleen
+Memeber 2: Ivy
+Member 3: Irene
+Member 4: Max
+Member 5: Angela
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6B-rL6oS)
 # Collaborative Git Workflows
 
 | Key              | Value                                                                                                                                                                                                                                                        |
@@ -15,3 +26,5 @@ Refer to the files in the order specified below for more details:
 
 - [lab_instructions_part1.md](lab_instructions_part1.md)
 - [lab_instructions_part2.md](lab_instructions_part2.md)
+
+Project lead: Member 4 (coordination) and Member 5 (governance and audit).
